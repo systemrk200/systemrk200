@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600" role="img" aria-label="systemrk200 — backend, data and neural networks">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111522"/><stop offset="1" stop-color="#171526"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#202538"/><stop offset="1" stop-color="#171b2a"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#bbc7ff" stroke-opacity=".055" stroke-width="1"/></pattern>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#93edc5"/><stop offset=".55" stop-color="#b9a4ff"/><stop offset="1" stop-color="#91cbff"/></linearGradient>
+</defs>
+<rect width="1400" height="600" fill="url(#bg)"/>
+<rect width="1400" height="600" fill="url(#grid)"/>
+<path d="M0 515H1400M0 515V600M1400 515V600" fill="none" stroke="#b9a4ff" stroke-opacity=".32" stroke-width="1"/>
+<text x="72" y="56" fill="#aab3c5" font-family="monospace" font-size="15" letter-spacing="3">SYSTEM PROFILE  /  01</text>
+<text x="1328" y="56" text-anchor="end" fill="#858ea4" font-family="monospace" font-size="14" letter-spacing="2">BACKEND  ·  DATA  ·  AI</text>
+<rect x="72" y="99" width="826" height="361" rx="14" fill="url(#panel)" stroke="#7783a0" stroke-opacity=".46" stroke-width="2"/>
+<path d="M72 151H898" stroke="#7783a0" stroke-opacity=".36" stroke-width="2"/>
+<circle cx="103" cy="125" r="6" fill="#ff858a"/><circle cx="127" cy="125" r="6" fill="#f6ce75"/><circle cx="151" cy="125" r="6" fill="#93edc5"/>
+<text x="485" y="131" text-anchor="middle" fill="#7f8aa5" font-family="monospace" font-size="15">~/profile/readme</text>
+<text x="116" y="206" fill="#93edc5" font-family="monospace" font-size="18">$ whoami</text>
+<text x="116" y="279" fill="#f1f3fa" font-family="monospace" font-weight="700" font-size="64" letter-spacing="1">@systemrk200</text>
+<rect x="117" y="301" width="10" height="25" fill="#93edc5"/>
+<text x="116" y="370" fill="#bbaaff" font-family="monospace" font-size="20" letter-spacing="2">backend  /  data  /  neural networks</text>
+<text x="116" y="420" fill="#7f8aa5" font-family="monospace" font-size="16">freelance, learning and building things</text>
+<g fill="none" stroke="url(#line)" stroke-opacity=".67" stroke-width="2">
+<path d="M1011 198L1127 151 1253 204 1332 147M1011 198L1117 267 1253 204 1340 292M1011 198L1047 357 1169 398 1286 344 1340 292M1127 151L1117 267 1169 398M1253 204L1286 344M1332 147L1340 292M1117 267L1286 344"/>
+</g>
+<g fill="#171526" stroke="url(#line)" stroke-width="3">
+<circle cx="1011" cy="198" r="10"/><circle cx="1127" cy="151" r="9"/><circle cx="1253" cy="204" r="12"/><circle cx="1332" cy="147" r="8"/>
+<circle cx="1117" cy="267" r="11"/><circle cx="1340" cy="292" r="10"/><circle cx="1047" cy="357" r="8"/><circle cx="1169" cy="398" r="11"/><circle cx="1286" cy="344" r="9"/>
+</g>
+<g fill="#93edc5"><circle cx="1011" cy="198" r="3"/><circle cx="1253" cy="204" r="4"/><circle cx="1169" cy="398" r="3"/></g>
+<text x="1010" y="445" fill="#7f8aa5" font-family="monospace" font-size="14" letter-spacing="3">DATA IN  →  IDEAS OUT</text>
+<text x="72" y="560" fill="#93edc5" font-family="monospace" font-size="14" letter-spacing="2">C#   PYTHON   SQL</text>
+<text x="1328" y="560" text-anchor="end" fill="#bbaaff" font-family="monospace" font-size="14" letter-spacing="2">NEURAL NETWORKS  //  LLM</text>
+</svg>

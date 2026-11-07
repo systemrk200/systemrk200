@@ -37,8 +37,4 @@
 - Прорабатываю инкрементальную загрузку обновлений заказов с обработкой повторов и поздних изменений.
 - В свободное время делаю небольшие приложения и эксперименты с нейросетями.
 
-## Некоторые репозитории
-
-[«Копилка» — системный дизайн](https://github.com/systemrk200/banking-piggybank-spec) · [Letters](https://github.com/systemrk200/Letters) · [Perceptron JS](https://github.com/systemrk200/Perceptron_JS)
-
 <p align="center"><a href="mailto:kseniakk890@gmail.com">kseniakk890@gmail.com</a> · <a href="https://t.me/systemrk200">@systemrk200</a></p>
